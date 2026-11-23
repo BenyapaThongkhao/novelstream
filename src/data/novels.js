@@ -5,6 +5,7 @@ export const categoryOptions = [
   { label: 'โรงเรียน & วัยรุ่น', value: 'school' },
   { label: 'อาหาร & กวนกระเพาะ', value: 'food' },
   { label: 'ย้อนยุค & โรแมนติก', value: 'romance' },
+  { label: 'รดีษ', value: 'romance' },
 ]
 
 export const adaptOptions = [
